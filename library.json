@@ -1,0 +1,26 @@
+{
+    "name": "SensorsCollect",
+    "version": "1.0.0",
+    "description": "The set of unified classes for collect sensor data.\n Uses adafruit sensor libs.",
+    "keywords": "sensor",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/username/hello-world.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Artyom Belyaev",
+        "email": "Artem.Belyaev@gmail.com"
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://www.helloworld.org/",
+    "dependencies": {
+      "claws/BH1750": "~1.1.4",
+      "adafruit/Adafruit-BMP085-Library": "~1.1.0"
+    },
+    "frameworks": "*",
+    "platforms": "*"
+  }
