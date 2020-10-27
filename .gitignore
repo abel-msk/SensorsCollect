@@ -1,0 +1,15 @@
+._*
+_*
+*.o
+*.code-workspace
+*.dSYM
+*.a
+_*/**
+**/build
+**/build/**
+**/.vscode
+**/.vscode/**
+**/.DS_Store
+**/*.code-workspace
+build
+build/**

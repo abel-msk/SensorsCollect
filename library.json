@@ -6,7 +6,7 @@
     "repository":
     {
       "type": "git",
-      "url": "https://github.com/username/hello-world.git"
+      "url": "https://github.com/abel-msk/SensorsCollect"
     },
     "authors":
     [
@@ -15,7 +15,7 @@
         "email": "Artem.Belyaev@gmail.com"
       }
     ],
-    "license": "MIT",
+    "license": "Apache2",
     "homepage": "https://www.helloworld.org/",
     "dependencies": {
       "claws/BH1750": "~1.1.4",
